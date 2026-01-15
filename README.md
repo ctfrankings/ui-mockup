@@ -1,12 +1,6 @@
 # CTF Rankings
 Built with React, Vite, and Tailwind CSS.
 
-## Features
-
-- **Team Rankings** - View and search academic CTF teams with their ratings and rankings
-- **CTF Rankings** - Browse past and upcoming CTF events with detailed information
-- **University Rankings** - See university-level statistics and top teams
-
 ## Getting Started
 
 ### Prerequisites
@@ -14,15 +8,7 @@ Built with React, Vite, and Tailwind CSS.
 - Node.js (v16 or higher)
 - npm or yarn
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/ctfrankings.git
-cd ctfrankings
-```
-
-2. Install dependencies:
+Install dependencies:
 ```bash
 npm install
 ```
@@ -32,7 +18,7 @@ npm install
 npm run dev
 ```
 
-4. Open your browser and navigate to `http://localhost:5173`
+Open your browser and navigate to `http://localhost:5173`
 
 ## Building for Production
 
