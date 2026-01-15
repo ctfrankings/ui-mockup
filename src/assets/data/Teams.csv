@@ -1,0 +1,350 @@
+team_id,team_name,affiliation_raw,affiliations_clean,affiliation_count,affiliation_types,category
+380080,\00,Amador Valley High School,Amador Valley High School,1,High School,High School
+81702,BCACTF,Bergen County Academies,Bergen County Academies,1,High School,High School
+303662,Berjer Koltuk,TÜBİTAK Science High School,TÜBİTAK Science High School,1,High School,High School
+283028,Bing Chilling Academies,Bergen County Academies,Bergen County Academies,1,High School,High School
+389051,CyberChargers,Chantilly High School,Chantilly High School,1,High School,High School
+373176,Kitty Wizard Money Gang,East Brunswick High School,East Brunswick High School,1,High School,High School
+166729,les amateurs,Canyon Crest Academy,Canyon Crest Academy,1,High School,High School
+157660,LIT CTF,Lexington,Lexington High School,1,High School,High School
+279497,N2L,smk/sma,SMK/SMA,1,High School,High School
+405057,SSS - Pmula,SMKN 2 Depok Sleman,SMKN 2 Depok Sleman,1,High School,High School
+370898,STELK_CSC,SMK Telkom Makassar,SMK Telkom Makassar,1,High School,High School
+395280,syndication,"Amity International School, Sector 46, Gurgaon","Amity International School, Sector 46, Gurgaon",1,High School,High School
+53812,tjcsc,Thomas Jefferson High School for Science and Technology,Thomas Jefferson High School for Science and Technology,1,High School,High School
+372194,1nno$leuths,National School of Cybersecurity,National School of Cybersecurity,1,Other,Other
+107202,Akasec,1337,1337 Coding School,1,Other,Other
+263980,ECSC EE,https://ecsc.ee,https://ecsc.ee,1,Other,Other
+368396,M4SEC,1337,1337 Coding School,1,Other,Other
+19208,Nu1L,Mix,Mix,1,Other,Other
+190074,OteriHack,Oteria Cyber School,Oteria Cyber School,1,Other,Other
+200877,PHREAKS 2600,Ecole 2600,Ecole 2600,1,Other,Other
+395274,ROPgods,Cité des Métiers et des Compétences (CMC) de Tanger,Cité des Métiers et des Compétences (CMC) de Tanger,1,Other,Other
+371622,Team0range,ККЭП,ККЭП,1,Other,Other
+378290,!!__script_kiddies__!!,Dayanand Sagar Academy of Technology and Management,Dayananda Sagar Academy of Technology and Management,1,University,University
+12592,******,Fudan University,Fudan University,1,University,University
+225182,.hidden,University of Bucharest,University of Bucharest,1,University,University
+306615,0M3G4_SQU4D,ENSIAS,ENSIAS (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes),1,University,University
+4419,0ops,Shanghai Jiao Tong University,Shanghai Jiao Tong University,1,University,University
+61928,0RAYS,Hangzhou Dianzi University,Hangzhou Dianzi University,1,University,University
+372147,0xFAILURES,Air University Islamabad,Air University Islamabad,1,University,University
+8163,0xFE,"University of Ferrara, Italy","University of Ferrara, Italy",1,University,University
+374531,0xHUST,Hanoi University of Science and Technology,Hanoi University of Science and Technology,1,University,University
+151859,1nf1n1ty,SASTRA Deemed to be University,SASTRA Deemed to be University,1,University,University
+372628,3HLD,VNU-HCM University of Information Technology,VNU-HCM University of Information Technology,1,University,University
+380823,4hats,AABU,Al al-Bayt University,1,University,University
+375385,4lone_Kn1ght,VNUHCM-University of Information Technology,VNUHCM-University of Information Technology,1,University,University
+281722,4Ray,Russian Technological University MIREA,Russian Technological University MIREA,1,University,University
+367339,:LOLZZ:,KAIST,Korea Advanced Institute of Science and Technology (KAIST),1,University,University
+362537,aespaFanClub,VNUHCM-University of Information Technology,VNUHCM-University of Information Technology,1,University,University
+389476,Al-7sh4sh33n,luxor university,luxor university,1,University,University
+230725,AreDaYush?,"MUST, SICT",Misr University for Science and Technology (School of Information and Computer Technology),1,University,University
+408751,Ast3roids,Cairo University,Cairo University,1,University,University
+359857,Atomic_Pwnz,Air University,Air University,1,University,University
+350749,Aw4k3n,Posts and Telecommunications Institute of Technology,Posts and Telecommunications Institute of Technology (PTIT),1,University,University
+194222,Azure Assassin Alliance,Zhejiang University,Zhejiang University,1,University,University
+11464,b01lers,Purdue University,Purdue University,1,University,University
+3135,Batman's Kitchen,University of Washington,University of Washington,1,University,University
+269281,Beavers0,"Yanka Kupala State University of Grodno, Belarus","Yanka Kupala State University of Grodno, Belarus",1,University,University
+194130,bhackari,Ca’ Foscari University of Venice,Ca’ Foscari University of Venice,1,University,University
+662,bi0s,"Amrita Vishwa Vidyapeetham, Amritapuri Campus","Amrita Vishwa Vidyapeetham, Amritapuri Campus",1,University,University
+72702,bi0sblr,"Amrita Vishwa Vidyapeetham, Bengaluru Campus","Amrita Vishwa Vidyapeetham, Bengaluru Campus",1,University,University
+389609,Binary_Beasts,national university of computer and emerging science,National University of Computer and Emerging Sciences (FAST-NUCES),1,University,University
+36281,BinaryBears,Moscow Technical University of Communications and Informatics (MTUCI),Moscow Technical University of Communications and Informatics (MTUCI),1,University,University
+8682,BIT,BIT,Beijing Institute of Technology,1,University,University
+151727,BIT CRIMINALS,Indian Institute of Technology ( Indian School of Mines ) Dhanbad,Indian Institute of Technology ( Indian School of Mines ) Dhanbad,1,University,University
+22310,BITSkrieg,"BITS Pilani, KK Birla Goa Campus","BITS Pilani, KK Birla Goa Campus",1,University,University
+361942,Bitwalkers,TU Darmstadt,Technische Universität Darmstadt,1,University,University
+199510,BKISC,Ho Chi Minh University of Technology,Ho Chi Minh University of Technology,1,University,University
+155048,blackpinker,"University of Science, VNU-HCM","University of Science, VNU-HCM",1,University,University
+64660,Blue Hens,University of Delaware,University of Delaware,1,University,University
+394674,BR41NL@G,Fast Nuces Isamabad,FAST National University of Computer and Emerging Sciences (Islamabad Campus),1,University,University
+586,Bushwhackers,Moscow State University,Moscow State University,1,University,University
+13691,ByteBandits,IIT Indore,Indian Institute of Technology Indore,1,University,University
+155711,BYU Cyberia,Brigham Young University,Brigham Young University,1,University,University
+373919,CascRoot,National School of Computer Science and Technology - Amizour Bejaia,National School of Computer Science and Technology - Amizour,1,University,University
+406024,ChapBaiSlayer,HCMUS-UIT,"University of Information Technology, Vietnam National University Ho Chi Minh City",1,University,University
+176906,Competitive Cyber at Mason,George Mason University,George Mason University,1,University,University
+152691,Contagion,Rochester Institute of Technology,Rochester Institute of Technology,1,University,University
+224675,cR4.sh,Russian Technological University MIREA,Russian Technological University MIREA,1,University,University
+65283,Crimson Defense,University of Alabama,University of Alabama,1,University,University
+270645,CRUx BPHC,"Birla Institute of Technology and Science, Pilani - Hyderabad campus","Birla Institute of Technology and Science, Pilani - Hyderabad campus",1,University,University
+62713,Cryptonite,Manipal Academy of Higher Education,Manipal Academy of Higher Education,1,University,University
+333,CSG,University of Texas at Dallas,University of Texas at Dallas,1,University,University
+11930,CSI,IPB University,IPB University,1,University,University
+70551,CSUI,University of Indonesia,University of Indonesia,1,University,University
+384247,CTF Academy,Arizona State University,Arizona State University,1,University,University
+284523,CTFREI,EFREI Paris,EFREI Paris,1,University,University
+369393,CtrlXploit,IIT ISM DHANBAD,Indian Institute of Technology (ISM) Dhanbad,1,University,University
+358931,CUT,Central University,Central University,1,University,University
+366788,Cyber @ UCI,"University of California, Irvine","University of California, Irvine",1,University,University
+87478,Cyber Rangers,Zhytomyr Polytechnic State University,Zhytomyr Polytechnic State University,1,University,University
+87727,Cyber@UC,University of Cincinnati,University of Cincinnati,1,University,University
+144677,CyberCellVIIT,Vishwakarma Institute of Information Technology,Vishwakarma Institute of Information Technology,1,University,University
+306185,CyberCh1ck,Academy of Cryptography Techniques,Academy of Cryptography Techniques,1,University,University
+306464,CyberGlitchers,international university of rabat,international university of rabat,1,University,University
+111016,CyberUniCorn,Communication University of China,Communication University of China,1,University,University
+369,CyKOR,Korea University,Korea University,1,University,University
+15154,d4rkc0de,Indraprastha Institute of Information Technology Delhi,Indraprastha Institute of Information Technology Delhi,1,University,University
+112645,DaVinciCode,École supérieure d'ingénieurs Léonard-de-Vinci,École Supérieure d'Ingénieurs Léonard-de-Vinci,1,University,University
+762,dcua,National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”,National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”,1,University,University
+306776,deathwing,"Vishwakarma Institute of Technology, Pune","Vishwakarma Institute of Technology, Pune",1,University,University
+283146,Del0n1x,Harbin Institute of Technology(Shenzhen),Harbin Institute of Technology(Shenzhen),1,University,University
+446,Delogrand,US Air Force Academy,United States Air Force Academy,1,University,University
+113511,DragonSec SI,University of Ljubljana,University of Ljubljana,1,University,University
+13719,DTUHAX,Technical University of Denmark,Technical University of Denmark,1,University,University
+279896,DU_Black_Noodles,University of Dhaka,University of Dhaka,1,University,University
+355851,Duckware,Instituto Nacional de Telecomunicações,Instituto Nacional de Telecomunicações,1,University,University
+405102,DWY_YK,Posts and Telecommunications Institute of Technology - Ho Chi Minh City,"Posts and Telecommunications Institute of Technology (PTIT), Ho Chi Minh City",1,University,University
+270643,EHAX,Delhi Technological University,Delhi Technological University,1,University,University
+1438,ENOFLAG,Technische Universität Berlin,Technische Universität Berlin,1,University,University
+311156,Ex0rcists,St. Joseph's Group of Institutions,St. Joseph's Group of Institutions,1,University,University
+210741,exploiitm,Indian Institute of Technology Madras,Indian Institute of Technology Madras,1,University,University
+281734,f4n_n3r0,"Posts and Telecommunications Institute of Technology, Ho Chi Minh City","Posts and Telecommunications Institute of Technology (PTIT), Ho Chi Minh City",1,University,University
+550,FAUST,FAU Erlangen-Nürnberg,Friedrich-Alexander-Universität Erlangen-Nürnberg,1,University,University
+65296,FITSEC,Florida Institute of Technology,Florida Institute of Technology,1,University,University
+372633,FL1TZ,INSAT,INSAT (Institut National des Sciences Appliquées et de Technologie),1,University,University
+34878,flagbot,ETH Zürich,ETH Zürich,1,University,University
+551,FluxFingers,Ruhr-Universität Bochum,Ruhr-Universität Bochum,1,University,University
+349680,flying_dutchman,VNUHCM - University of Information Technology,"University of Information Technology, Vietnam National University Ho Chi Minh City",1,University,University
+187155,FPTU Ethical Hacker Club,FPT University,FPT University,1,University,University
+246488,Galette Cidre CTF,ENSIBS,ENSIBS (École Nationale Supérieure d'Ingénieurs de Bretagne Sud),1,University,University
+54706,Ganesh,University of São Paulo,University of São Paulo,1,University,University
+177350,GopherHack,University of Minnesota,University of Minnesota,1,University,University
+46459,GreyHat,Georgia Institute of Technology,Georgia Institute of Technology,1,University,University
+926,GRIS,Federal University of Rio de Janeiro,Federal University of Rio de Janeiro,1,University,University
+310140,H4CK_077,RMK College of Engineering and Technology,RMK College of Engineering and Technology,1,University,University
+113083,h4tum,TUM,Technical University of Munich (TUM),1,University,University
+358850,Hackchester,University of Manchester,University of Manchester,1,University,University
+154555,HackerSir,Feng Chia University,Feng Chia University,1,University,University
+382929,HackerTroupe,"Rajiv Gandhi University of Knowledge Technologies, Nuzvid","Rajiv Gandhi University of Knowledge Technologies, Nuzvid",1,University,University
+70459,Hackiit,Universidad de Granada,Universidad de Granada,1,University,University
+367962,HackOrda,Astana IT University,Astana IT University,1,University,University
+38331,HackUTT,UTT,Université de Technologie de Troyes (UTT),1,University,University
+356153,HasHash,"Air University, Islamabad","Air University, Islamabad",1,University,University
+267394,HASHTEAM,Shandong University,Shandong University,1,University,University
+162123,havce,University of Parma (Italy),University of Parma (Italy),1,University,University
+226098,Hawksec UNIFEI,Universidade Federal de Itajubá (UNIFEI),Universidade Federal de Itajubá (UNIFEI),1,University,University
+70159,HCS,Sepuluh Nopember Institute of Technology,Sepuluh Nopember Institute of Technology,1,University,University
+140217,HDFR,EPITA,EPITA,1,University,University
+142149,Heaven's_Birds,esi sba,École Nationale Supérieure en Informatique (ESI-SBA),1,University,University
+59175,HgbSec,University of Applied Sciences Upper Austria,University of Applied Sciences Upper Austria,1,University,University
+65249,HKUSTFirebird,Hong Kong University of Science and Technology,Hong Kong University of Science and Technology,1,University,University
+314212,ICC UH,Hasanuddin University,Hasanuddin University,1,University,University
+22546,IIT(BHU)CyberSec,Indian Institute of Technology (Banaras Hindu University),Indian Institute of Technology (Banaras Hindu University),1,University,University
+16691,InfoSecIITR,IIT Roorkee,Indian Institute of Technology Roorkee,1,University,University
+400816,InfosecPTIT,Posts and Telecommunications Institute of Technology Ha Noi - PTIT,"Posts and Telecommunications Institute of Technology (PTIT), Hanoi",1,University,University
+109611,IQ-toppene,NTNU,Norwegian University of Science and Technology (NTNU),1,University,University
+405411,IRESDTU,Duy Tan University,Duy Tan University,1,University,University
+69010,isss,University of Texas,University of Texas,1,University,University
+274079,IT-Security Club,FH Aachen - University of Applied Sciences,FH Aachen - University of Applied Sciences,1,University,University
+11404,Itemize,NTNU,Norwegian University of Science and Technology (NTNU),1,University,University
+17058,K17,University of New South Wales,University of New South Wales,1,University,University
+373093,KattangalSec,NIT Calicut,National Institute of Technology Calicut,1,University,University
+82759,KCSC,Academy of Cryptography Techniques,Academy of Cryptography Techniques,1,University,University
+397,Kernel Sanders,UF's Kernel Sanders,University of Florida,1,University,University
+2980,keva,Tomsk State University of Control Systems and Radioelectronics (TUSUR),Tomsk State University of Control Systems and Radioelectronics (TUSUR),1,University,University
+380179,kiaB kataB,Brawijaya University,Brawijaya University,1,University,University
+350936,KiN3t1cs,IIIT Hyderabad,"International Institute of Information Technology, Hyderabad",1,University,University
+7221,KITCTF,Karlsruhe Institute of Technology,Karlsruhe Institute of Technology,1,University,University
+32621,kks,RTU MIREA,MIREA — Russian Technological University (RTU MIREA),1,University,University
+2500,Knightsec,University of Central Florida,University of Central Florida,1,University,University
+1040,KUICS,Korea University,Korea University,1,University,University
+59774,KuK Hofhackerei,"TU Graz, TU Wien2, JKU Linz, FH OÖ, FH St. Pölten, University of Vienna","TU Graz, TU Wien2, JKU Linz, FH OÖ, FH St. Pölten, University of Vienna",1,University,University
+11724,L,Xidian University,Xidian University,1,University,University
+354995,L0stAx3s,MIPT,Moscow Institute of Physics and Technology,1,University,University
+75946,L3H Sec,Huazhong University of Science & Technology,Huazhong University of Science & Technology,1,University,University
+154533,lab4,AGH UST,AGH University of Science and Technology,1,University,University
+369034,laevatain,VNUHCM - University of Information Technology,"University of Information Technology, Vietnam National University Ho Chi Minh City",1,University,University
+395398,libbabel.so,Indian Institute of Technology Kharagpur,Indian Institute of Technology Kharagpur,1,University,University
+15163,Lilac,Harbin Institute of Technology,Harbin Institute of Technology,1,University,University
+8323,LosFuzzys,ISEC Institute @ TU Graz,ISEC Institute @ TU Graz,1,University,University
+195096,M0NT3C4RL0,Universitá degli studi di Bari Aldo Moro,Università degli Studi di Bari Aldo Moro,1,University,University
+284402,m1nt4l1ty,Higher National School Of Computer Science ESI-SBA,École Nationale Supérieure en Informatique (ESI-SBA),1,University,University
+385281,M3RC3N4RY,Posts and Telecommunications Institute of Technology,Posts and Telecommunications Institute of Technology (PTIT),1,University,University
+365940,MaaSec,DACS @ Maastricht University,DACS @ Maastricht University,1,University,University
+114509,MadrHacks,University of Udine,University of Udine,1,University,University
+203024,magpies,University of Calgary,University of Calgary,1,University,University
+73723,Maple Bacon,University of British Columbia,University of British Columbia,1,University,University
+47386,Mayas,UNITEC,UNITEC,1,University,University
+141950,MEPhI CTF,NRNU MEPhI,National Research Nuclear University MEPhI,1,University,University
+287651,milworms,KPI,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",1,University,University
+271292,mimicats,КазНУ им. аль Фараби,Al-Farabi Kazakh National University,1,University,University
+109523,misc,University of Melbourne,University of Melbourne,1,University,University
+4899,MMA,The University of Electro-Communications,The University of Electro-Communications,1,University,University
+407415,Moltres,PTIT,Posts and Telecommunications Institute of Technology (PTIT),1,University,University
+112620,MQCyberSec,Macquarie University,Macquarie University,1,University,University
+376652,N0C715,Haridwar University,Haridwar University,1,University,University
+308814,napwnli,University of Naples Federico II,University of Naples Federico II,1,University,University
+13575,Never Stop Exploiting,UCAS,University of Chinese Academy of Sciences (UCAS),1,University,University
+196656,Ng00m4lDhuhr,Cairo University,Cairo University,1,University,University
+374122,NICP,BINUS University,BINUS University,1,University,University
+2524,Nol3ptr,Florida State University,Florida State University,1,University,University
+394081,Null Script Infiltrators,Bangladesh University of Professionals,Bangladesh University of Professionals,1,University,University
+395255,Nullbyte Nomads,Falkland College,Falkland College,1,University,University
+16740,NUS GreyHats,National University of Singapore,National University of Singapore,1,University,University
+72265,NuttyShell,HK PolyU,The Hong Kong Polytechnic University,1,University,University
+439,NYUSEC,New York University,New York University,1,University,University
+307387,Onicoders-UciTeam,Universidad de las Ciencias Informaticas,Universidad de las Ciencias Informaticas,1,University,University
+150351,OP_EN,Open University,Open University,1,University,University
+12858,OSUSEC,Oregon State University,Oregon State University,1,University,University
+379613,Overf1ow,Zhuhai College of Science and Technology,Zhuhai College of Science and Technology,1,University,University
+186494,PBR | UCLA,"University of California, Los Angeles","University of California, Los Angeles",1,University,University
+64958,Petir Cyber Security,BINUS,Bina Nusantara University,1,University,University
+147266,pingCTF,Gdańsk University of Technology,Gdańsk University of Technology,1,University,University
+286676,PixelPioneers25,INSAT,INSAT (Institut National des Sciences Appliquées et de Technologie),1,University,University
+284,Plaid Parliament of Pwning,Carnegie Mellon University,Carnegie Mellon University,1,University,University
+112550,Platypwnies,Hasso-Plattner-Institut,Hasso-Plattner-Institut,1,University,University
+1679,PLUS,POSTECH,Pohang University of Science and Technology (POSTECH),1,University,University
+53791,polygl0ts,EPFL,École Polytechnique Fédérale de Lausanne (EPFL),1,University,University
+373261,PolySec,Florida Polytechnic University,Florida Polytechnic University,1,University,University
+222358,PrivateUser,SRM Institute of Science and Technology,SRM Institute of Science and Technology,1,University,University
+376135,PTIT Waguri,Posts and Telecommunications Institute of Technology,Posts and Telecommunications Institute of Technology (PTIT),1,University,University
+405056,puppies,Polytechnic University of the Philippines,Polytechnic University of the Philippines,1,University,University
+390304,PurpleFoxxx,SIES Graduate School of Technology,SIES Graduate School of Technology,1,University,University
+279433,Pwn-la-Chapelle,RWTH Aachen,RWTH Aachen University,1,University,University
+386813,Pwnissa,Università di Genova,Università di Genova,1,University,University
+60467,pwnthem0le,Politecnico di Torino,Politecnico di Torino,1,University,University
+309457,Pwnzer0tt1,Polytechnic of Bari,Polytechnic of Bari,1,University,University
+88205,PWr Synt@x Err0r,Wroclaw University of Science and Technology,Wroclaw University of Science and Technology,1,University,University
+300287,Qu4cks,Queen's University,Queen's University,1,University,University
+252055,r3pka,P.G. Demidov Yaroslavl State University,P.G. Demidov Yaroslavl State University,1,University,University
+394229,Rea11y Annoying Bots(RAB),Bangladesh University of Professionals (BUP),Bangladesh University of Professionals (BUP),1,University,University
+414345,Redback Crawlers Ensemble,Royal Melbourne Institute of Technology - Vietnam,Royal Melbourne Institute of Technology - Vietnam,1,University,University
+20555,Redbud,Tsinghua University,Tsinghua University,1,University,University
+380953,rick07,FPT,FPT University,1,University,University
+6476,ROIS,Fuzhou University,Fuzhou University,1,University,University
+388584,RootForcee,FPTU HN,"FPT University, Hanoi Campus",1,University,University
+176008,RoyalRoppers,KTH Royal Institute of Technology,KTH Royal Institute of Technology,1,University,University
+132960,RPCA Cyber Club,Royal Police Cadet Academy,Royal Police Cadet Academy (Thailand),1,University,University
+572,RPISEC,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,1,University,University
+365480,S1gW0zzys,"TU Graz, TU Vienna, Uni Vienna, JKU",Graz University of Technology; Johannes Kepler University Linz; University of Vienna; Vienna University of Technology (TU Wien),4,University; University; University; University,University
+15337,saarsec,Saarland University,Saarland University,1,University,University
+78233,SavedByTheShell,UMass Amherst,University of Massachusetts Amherst,1,University,University
+144581,scriptohio,The Ohio State University,The Ohio State University,1,University,University
+191005,SeaDragons,Universidade Federal do Ceará,Universidade Federal do Ceará,1,University,University
+5084,Securinets,INSAT,INSAT (Institut National des Sciences Appliquées et de Technologie),1,University,University
+170807,SHAOCHI LU,NCU CSIE Student's Personal Team,"National Central University, Department of Computer Science and Information Engineering",1,University,University
+220236,Shell We Hack?,University of New Brunswick,University of New Brunswick,1,University,University
+285,Shellphish,UC Santa Barbara and Arizona State University,"Arizona State University; University of California, Santa Barbara",2,University; University,University
+557,SiBears,TSU,Tomsk State University,1,University,University
+387795,sieberr.live,Hwa Chong Institution,Hwa Chong Institution,1,University,University
+186784,SIGAN,Orenburg State University,Orenburg State University,1,University,University
+32127,SIGFLAG,JKU - Johannes Kepler University Linz,JKU - Johannes Kepler University Linz,1,University,University
+78828,siginthq,University of Edinburgh,University of Edinburgh,1,University,University
+27763,SIGPwny,University of Illinois Urbana-Champaign,University of Illinois Urbana-Champaign,1,University,University
+404129,Sky1nNorth,VNUHCM - University of Information Technology,"University of Information Technology, Vietnam National University Ho Chi Minh City",1,University,University
+386794,Sleepy Pandas,University of Dhaka,University of Dhaka,1,University,University
+23234,Spirit+,Jilin University,Jilin University,1,University,University
+201730,squ1rrel,Vanderbilt University,Vanderbilt University,1,University,University
+83421,Srdnlen,"University of Cagliari, Italy","University of Cagliari, Italy",1,University,University
+16658,ss,KOREA UNIV.,Korea University,1,University,University
+361970,Status 418,Dalhousie University,Dalhousie University,1,University,University
+34619,STT,Instituto Superior Tecnico - Universidade de Lisboa,Instituto Superior Tecnico - Universidade de Lisboa,1,University,University
+455,Syclover,CUIT,Chengdu University of Information Technology,1,University,University
+205604,SYMteam,ENSA FES,École Nationale des Sciences Appliquées de Fès (ENSA Fès),1,University,University
+2003,SYPER,Universidad Nacional de La Plata,Universidad Nacional de La Plata,1,University,University
+165776,T.U.S.K,VIT Bhopal University,VIT Bhopal University,1,University,University
+37721,TAMUctf,Texas A&M University,Texas A&M University,1,University,University
+254412,Team-915,"VJTI, Mumbai",Veermata Jijabai Technological Institute (VJTI Mumbai),1,University,University
+61083,TeamShakti,Amrita Vishwa Vidyapeetham,Amrita Vishwa Vidyapeetham,1,University,University
+24526,TechSec,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1,University,University
+22044,Tenesys,Universitas Teknokrat Indonesia,Universitas Teknokrat Indonesia,1,University,University
+389946,The Bus Factor is 1:,Universitas Negeri Semarang,Universitas Negeri Semarang,1,University,University
+364665,The Third Section,"North-Caucasus Federal University, NCFU","North-Caucasus Federal University, NCFU",1,University,University
+278165,TheGrue,UNIVERSIDAD REY JUAN CARLOS,UNIVERSIDAD REY JUAN CARLOS,1,University,University
+46516,TheRomanXpl0it,Sapienza University of Rome,Sapienza University of Rome,1,University,University
+372652,Thr4t Hunt1n9,Posts and Telecommunications Institute of Technology Ha Noi,"Posts and Telecommunications Institute of Technology (PTIT), Hanoi",1,University,University
+300,Tower of Hanoi,Politecnico di Milano,Politecnico di Milano,1,University,University
+365267,Trinity Cyber Club,Trinity University,Trinity University,1,University,University
+16088,TSG,The University of Tokyo,The University of Tokyo,1,University,University
+134822,TU Delft CTF Team,Delft University of Technology,Delft University of Technology,1,University,University
+140846,UAC,University of Aveiro,University of Aveiro,1,University,University
+390903,UCS,Institut Teknologi Sepuluh Nopember,Institut Teknologi Sepuluh Nopember,1,University,University
+138431,UIT-Wanna.W1n,VNUHCM - University of Information Technology,"University of Information Technology, Vietnam National University Ho Chi Minh City",1,University,University
+362540,UIT_TURTLE,VNUHCM-University of Information Technology,VNUHCM-University of Information Technology,1,University,University
+71738,Ulisse,University of Bologna,University of Bologna,1,University,University
+18405,UMBC Cyber Dawgs,"University of Maryland, Baltimore County","University of Maryland, Baltimore County",1,University,University
+87711,UMDCSEC,University of Maryland,University of Maryland,1,University,University
+385890,Underr00ted,USTHB (University of Science And Technology Houari Boumediene),USTHB (University of Science And Technology Houari Boumediene),1,University,University
+139261,UofTCTF,University of Toronto,University of Toronto,1,University,University
+286960,UofUCyberSec,University of Utah,University of Utah,1,University,University
+57581,upbhack,Paderborn University,Paderborn University,1,University,University
+276942,UPT-CTF,Universitatea Politehnica Timișoara,Universitatea Politehnica Timișoara,1,University,University
+250938,Uqbar,Universidad Nacional de Colombia,Universidad Nacional de Colombia,1,University,University
+271886,Urako,UIR,Université Internationale de Rabat (UIR),1,University,University
+168863,USTC-NEBULA,University of Science and Technology of China,University of Science and Technology of China,1,University,University
+408650,Utopains,University of Calcutta,University of Calcutta,1,University,University
+214520,UVT-CTF,West University of Timisoara,West University of Timisoara,1,University,University
+8211,Vidar-Team,HDU,Hangzhou Dianzi University,1,University,University
+303156,viole(n)t,Wroclaw University of Science and Technology,Wroclaw University of Science and Technology,1,University,University
+74037,VN_MSEC,Military Technology Academy,Military Technology Academy,1,University,University
+284373,VSL,VKU,Vietnam-Korea University of Information and Communication Technology (VKU),1,University,University
+414720,VSL.Sp33d_Of_T1m3,Vietnam - Korea University of Information Technology and Communication,Vietnam-Korea University of Information and Communication Technology (VKU),1,University,University
+399007,VSL_0utl4w,Vietnam - Korea University of Information Technology and Communication,Vietnam-Korea University of Information and Communication Technology (VKU),1,University,University
+378359,VuwCTF,Te Herenga Waka - Victoria University of Wellington,Te Herenga Waka - Victoria University of Wellington,1,University,University
+373968,WATCTF,University of Waterloo,University of Waterloo,1,University,University
+162987,waterdrop,Sun Yat-sen University,Sun Yat-sen University,1,University,University
+1964,WE_0WN_Y0U,TU Wien,Vienna University of Technology (TU Wien),1,University,University
+369100,What(),Hong Kong University of Science and Technology,Hong Kong University of Science and Technology,1,University,University
+285880,WhiteOps - AUI,Al Akhawayn University In Ifrane,Al Akhawayn University In Ifrane,1,University,University
+83621,wolvsec,University of Michigan,University of Michigan,1,University,University
+375467,WROng_flag,University of Wrocław,University of Wrocław,1,University,University
+18925,Xp0int,Jinan University,Jinan University,1,University,University
+15341,xSTF,University of Porto,University of Porto,1,University,University
+383074,Xyl0n,State Polytechnic Of Jakarta,State Polytechnic Of Jakarta,1,University,University
+365016,Ynov Cyber Crew,Ynov Campus,Ynov Campus,1,University,University
+373452,z0d1ak,ACM-VIT,Vellore Institute of Technology (VIT),1,University,University
+273127,|3r0th3r CC,HUTECH - University of Technology,HUTECH - University of Technology,1,University,University
+222911,".;,;.",,,0,,Unknown
+370140,0bscuri7y,,,0,,Unknown
+224944,0psu3,,,0,,Unknown
+299716,0xf1sh,,,0,,Unknown
+417912,0xp3n1s,,,0,,Unknown
+354531,400BadRequest,,,0,,Unknown
+382076,@HYDRA,,,0,,Unknown
+175853,ACERGION,,,0,,Unknown
+372834,after-school Cozy Tea Friends 🍵,,,0,,Unknown
+394066,AIRvanguard,,,0,,Unknown
+4140,ASIS,,,0,,Unknown
+145156,ChaGU,,,0,,Unknown
+372043,Cosmic Bit Flip,,,0,,Unknown
+373153,CyberSh@rks,,,0,,Unknown
+383164,Dacia Team,,,0,,Unknown
+126400,DownUnderCTF,,,0,,Unknown
+309244,El1teS3c,,,0,,Unknown
+286653,ex futuro,,,0,,Unknown
+379527,F4ng_snyder,,,0,,Unknown
+301267,flappy birds,,,0,,Unknown
+392048,FluxKITtens :3,,,0,,Unknown
+374955,Gummi_Bears,,,0,,Unknown
+407809,Han Shangyan Solo Run,,,0,,Unknown
+134746,HKCERT,,,0,,Unknown
+303514,ICEDTEA,,,0,,Unknown
+165802,IITBreachers,,,0,,Unknown
+358282,kBxAc,,,0,,Unknown
+221496,KebabEngineers,,,0,,Unknown
+269755,L.A.R.P.,,,0,,Unknown
+757,LSE,,,0,,Unknown
+365472,M0r3 L1F3,,,0,,Unknown
+416141,MazuBot,,,0,,Unknown
+380572,memdmp,,,0,,Unknown
+287661,MEOW MEOW MEOW MEOW MEOW,,,0,,Unknown
+383098,N3tw0rkGhosts,,,0,,Unknown
+210760,noreply,,,0,,Unknown
+48032,NOVA,,,0,,Unknown
+372110,OhYeahSeC,,,0,,Unknown
+224686,peepo,,,0,,Unknown
+45456,PwnHub,,,0,,Unknown
+280900,reCAPTCHA the Flag,,,0,,Unknown
+279418,Rop Runners,,,0,,Unknown
+284260,ScriptSorcerers,,,0,,Unknown
+360303,Securani,,,0,,Unknown
+193894,SNHT,,,0,,Unknown
+374058,Trojeun,,,0,,Unknown
+106087,V&N,,,0,,Unknown
+379530,vianu_hack,,,0,,Unknown
+302734,懐かしい,,,0,,Unknown
+365958,正规子群,,,0,,Unknown
+280959,竹狐,,,0,,Unknown
+378675,🇫🇷 French Corp,,,0,,Unknown
