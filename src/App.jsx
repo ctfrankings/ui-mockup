@@ -5,9 +5,12 @@ import CTFRankings from './pages/CTFRankings'
 import UniversityRankings from './pages/UniversityRankings'
 
 function App() {
+  // Align router base with Vite base so it works on GitHub Pages and locally
+  const basename = import.meta.env.BASE_URL.replace(/\/$/, '') || '/'
+
   return (
     <BrowserRouter 
-      basename="/ctfrankings"
+      basename={basename}
       future={{
         v7_startTransition: true,
         v7_relativeSplatPath: true,
